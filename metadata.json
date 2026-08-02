@@ -1,0 +1,6 @@
+{
+  "name": "B2B Data Enrichment",
+  "description": "Upload a CSV file with Company and Founder names, and enrich it with Official Domains, LinkedIn Profiles, and size estimates using Gemini and Google Search Grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
